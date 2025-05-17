@@ -2,6 +2,6 @@ package one
 
 import "fmt"
 
-fun Eng() {
+func Eng() {
 	fmt.Println("Hello!")
 }
